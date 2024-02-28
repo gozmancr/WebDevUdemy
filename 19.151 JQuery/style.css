@@ -1,0 +1,10 @@
+body{
+    display: grid;
+}
+
+
+.bigText{
+    font-size: 10rem;
+    margin: 40px;
+    align-items: center;
+}

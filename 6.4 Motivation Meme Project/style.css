@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+div{
+    color: aliceblue;
+    margin: 20px;
+    font-family: 'Rubik Puddles', cursive;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    
+}
+img{
+    border: 5px solid white;
+    margin-bottom: 10px;
+    width: 100%;
+}
+h1{
+    text-transform: uppercase;
+    color: yellow;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
